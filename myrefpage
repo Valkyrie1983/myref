@@ -6,6 +6,7 @@
      body{
        background-color: yellow;
        font-family: monospace;
+       color: black;
        }
        <style/>
 <head>
