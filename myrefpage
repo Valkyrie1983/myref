@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title> My Ref Page </title>
+  <title> My Ref Page </title>
+  <style>
+     body{
+       background-color: yellow;
+       font-family: monospace;
+       }
+       <style/>
 <head>
+<body>
 <h1>TOOLS</>
+</body>
+</html>
